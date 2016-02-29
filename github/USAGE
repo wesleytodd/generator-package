@@ -1,0 +1,5 @@
+Description:
+  Sets up a github repo
+
+Example:
+  yo fn-awesome-module:github

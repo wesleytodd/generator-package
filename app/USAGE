@@ -1,0 +1,13 @@
+Description:
+  Scaffolds out an npm package for ME, with my oppinions
+
+Example:
+  yo fn-awesome-module
+
+  This will create:
+    package.json
+    LICENSE
+    README.md
+    .gitignore
+    .travis.yml
+    .editorconfig

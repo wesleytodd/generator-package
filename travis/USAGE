@@ -1,0 +1,5 @@
+Description:
+  Sets up a travis config
+
+Example:
+  yo fn-awesome-module:travis

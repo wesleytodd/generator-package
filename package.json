@@ -1,0 +1,33 @@
+{
+  "name": "generator-fn-awesome-module",
+  "version": "1.0.0",
+  "description": "A generator for my npm modules, very opinionated",
+  "main": "index.js",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "sort-object": "^3.0.2",
+    "travis-config-keys": "^1.0.3",
+    "yamljs": "^0.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "happiness"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleytodd/generator-fn-awesome-module.git"
+  },
+  "keywords": [
+    "generator",
+    "yeoman",
+    "npm",
+    "node",
+    "module"
+  ],
+  "author": "Wes Todd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleytodd/generator-fn-awesome-module/issues"
+  },
+  "homepage": "https://github.com/wesleytodd/generator-fn-awesome-module#readme"
+}
