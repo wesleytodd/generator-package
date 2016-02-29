@@ -9,7 +9,9 @@
     "travis-config-keys": "^1.0.3",
     "yamljs": "^0.2.6"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "happiness": "^5.5.0"
+  },
   "scripts": {
     "test": "happiness"
   },

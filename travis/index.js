@@ -41,7 +41,7 @@ module.exports = yeoman.Base.extend({
 		var defaults = yaml.parse(this.fs.read(tmpl));
 
 		var trav = sort(Object.assign(defaults, existing), {
-			sort: function sortByKeys(a, b) {
+			sort: function (a, b) {
 				return travisConfigKeys.indexOf(a) < travisConfigKeys.indexOf(b) ? -1 : 1;
 			}
 		});

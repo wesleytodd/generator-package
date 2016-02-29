@@ -119,7 +119,7 @@ module.exports = yeoman.Base.extend({
 								if (err) {
 									this.log.error(err);
 								}
-								
+
 								this.log.ok('Got the repo info');
 								this.props.githubRepo = repo || {};
 								done();

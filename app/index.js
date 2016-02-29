@@ -112,7 +112,7 @@ module.exports = yeoman.Base.extend({
 				this.composeWith('fn-awesome-module:travis', {
 					options: {
 						browser: this.props.browser
-					 }
+					}
 				}, {
 					local: require.resolve('../travis')
 				});
@@ -139,7 +139,7 @@ module.exports = yeoman.Base.extend({
 						description: this.props.description,
 						username: this.props.githubUsername,
 						es2015: this.props.es2015
-					 }
+					}
 				}, {
 					local: require.resolve('../github')
 				});
