@@ -1,6 +1,6 @@
 {
   "name": "generator-fn-awesome-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A generator for my npm modules, very opinionated",
   "main": "index.js",
   "dependencies": {
