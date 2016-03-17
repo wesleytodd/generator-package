@@ -7,7 +7,8 @@
     "mkdirp": "^0.5.1",
     "sort-object": "^3.0.2",
     "travis-config-keys": "^1.0.3",
-    "yamljs": "^0.2.6"
+    "yamljs": "^0.2.6",
+    "yeoman-generator": "^0.22.5"
   },
   "devDependencies": {
     "happiness": "^5.5.0"
