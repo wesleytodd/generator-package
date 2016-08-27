@@ -1,3 +1,5 @@
 {
-	"presets": ["es2015"]
+  "presets": [
+    <%- props.es2015 ? '"es2015"' + (props.jsx ? ',\n' : '') : '' %><%- props.jsx ? '  "react"' : '' %>
+  ]
 }

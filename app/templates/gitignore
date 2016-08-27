@@ -1,0 +1,4 @@
+node_modules
+npm-debug.log
+.DS_Store<% if (props.es2015 || props.jsx) { %>
+lib<% } %>

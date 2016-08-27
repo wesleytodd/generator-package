@@ -1,0 +1,4 @@
+test
+.gitignore<% if (props.examples) { %>
+examples<% } %><% if (props.es2015 || props.jsx) { %>
+src<% } %>

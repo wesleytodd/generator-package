@@ -1,5 +1,5 @@
 {
-  "name": "generator-fn-awesome-module",
+  "name": "@wesleytodd/generator-package",
   "version": "1.0.0",
   "description": "A generator for my npm modules, very opinionated",
   "main": "index.js",
@@ -7,7 +7,8 @@
     "mkdirp": "^0.5.1",
     "sort-object": "^3.0.2",
     "travis-config-keys": "^1.0.3",
-    "yamljs": "^0.2.6"
+    "yamljs": "^0.2.6",
+    "yosay": "^1.2.0"
   },
   "devDependencies": {
     "happiness": "^5.5.0"

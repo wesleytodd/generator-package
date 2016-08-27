@@ -142,10 +142,6 @@ module.exports = yeoman.Base.extend({
 	},
 
 	writing: {
-		copyIgnore: function () {
-			this.template('gitignore', '.gitignore');
-		},
-
 		writePkgJson: function () {
 			if (!this.props.githubRepo) {
 				return;
