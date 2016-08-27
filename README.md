@@ -5,19 +5,19 @@
 [![NPM Downloads][downloads-image]][downloads-url]
 [![js-happiness-style](https://img.shields.io/badge/code%20style-happiness-brightgreen.svg)](https://github.com/JedWatson/happiness)
 
-[npm-image]: https://img.shields.io/npm/v/generator-fn-awesome-module.svg
-[npm-url]: https://npmjs.org/package/generator-fn-awesome-module
-[downloads-image]: https://img.shields.io/npm/dm/generator-fn-awesome-module.svg
-[downloads-url]: https://npmjs.org/package/generator-fn-awesome-module
+[npm-image]: https://img.shields.io/npm/v/@wesleytodd/generator-package.svg
+[npm-url]: https://npmjs.org/package/@wesleytodd/generator-package
+[downloads-image]: https://img.shields.io/npm/dm/@wesleytodd/generator-package.svg
+[downloads-url]: https://npmjs.org/package/@wesleytodd/generator-package
 
 ## Install
 
 ```
-$ npm install -g yo generator-fn-awesome-module
+$ npm install -g yo @wesleytodd/generator-package
 ```
 
 ## Usage
 
 ```
-$ yo fn-awesome-module
+$ yo @wesleytodd/package
 ```
