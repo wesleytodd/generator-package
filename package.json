@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wesleytodd/generator-fn-awesome-module.git"
+    "url": "git+https://github.com/wesleytodd/generator-package.git"
   },
   "keywords": [
     "generator",
@@ -31,7 +31,7 @@
   "author": "Wes Todd",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wesleytodd/generator-fn-awesome-module/issues"
+    "url": "https://github.com/wesleytodd/generator-package/issues"
   },
-  "homepage": "https://github.com/wesleytodd/generator-fn-awesome-module#readme"
+  "homepage": "https://github.com/wesleytodd/generator-package#readme"
 }
